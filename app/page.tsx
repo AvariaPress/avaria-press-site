@@ -494,7 +494,7 @@ export default function Page() {
 
           .ap-signature {
             right: 2px;
-            bottom: -22px;
+            bottom: -32px;
             font-size: 26px;
           }
 
