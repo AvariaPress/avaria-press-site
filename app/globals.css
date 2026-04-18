@@ -1,7 +1,4 @@
-@import "tailwindcss";
-
-@layer base {
-  html {
+html {
     font-family: Georgia, "Times New Roman", Times, serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -13,7 +10,7 @@
     margin: 0;
     padding: 0;
   }
-}
+
 @keyframes portraitFloat {
   0% {
     transform: rotate(-1.5deg) translateY(-8px);
