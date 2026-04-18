@@ -266,7 +266,7 @@ import type { Metadata } from "next";
                   />
 
                   <img
-                    src="/author-portrait.jpg"
+                    src="/Facetune_31-03-2026-23-21-21.jpeg"
                     alt="Author portrait"
                     className="relative block w-[380px] max-w-[80vw] rounded-[18px] md:w-[315px] md:max-w-[38vw]"
                       style={{
