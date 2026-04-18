@@ -349,7 +349,7 @@ export default function Page() {
         .ap-signature {
           position: absolute;
           right: -4px;
-          bottom: -36px;
+          bottom: -40px;
           z-index: 2;
           font-family: "Great Vibes", cursive;
           font-size: 30px;
