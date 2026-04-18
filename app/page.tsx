@@ -355,7 +355,7 @@ export default function Page() {
           font-size: 30px;
           line-height: 1;
           color: #C6A85A;
-          opacity: 0.92;
+          opacity: 0.82;
           transform: rotate(-2deg);
           pointer-events: none;
         }
