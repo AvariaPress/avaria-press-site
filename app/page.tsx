@@ -420,27 +420,38 @@ export default function Page() {
         }
 
         @media (max-width: 980px) {
-          .ap-hero,
-          .ap-author,
-          .ap-offers {
-            grid-template-columns: 1fr;
-          }
+  .ap-hero,
+  .ap-author,
+  .ap-offers {
+    grid-template-columns: 1fr;
+  }
 
-          .ap-shell {
-            width: min(760px, calc(100vw - 24px));
-            padding-bottom: 72px;
-          }
+  .ap-hero {
+    gap: 16px;
+  }
 
-          .ap-title,
-          .ap-copy {
-            max-width: 100%;
-          }
+  .ap-author {
+    gap: 26px;
+  }
 
-          .ap-cover-wrap,
-          .ap-author-image-wrap {
-            margin-bottom: 8px;
-          }
-        }
+  .ap-shell {
+    width: min(760px, calc(100vw - 24px));
+    padding-bottom: 72px;
+  }
+
+  .ap-title,
+  .ap-copy {
+    max-width: 100%;
+  }
+
+  .ap-cover-wrap {
+    margin-bottom: 0;
+  }
+
+  .ap-author-image-wrap {
+    margin-bottom: 8px;
+  }
+}
 
         @media (max-width: 640px) {
           .ap-shell {
