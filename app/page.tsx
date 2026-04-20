@@ -14,7 +14,7 @@ const BOOK = {
     "Based on a true account in the Western District of North Carolina",
   note: "A record constructed by the person living it, while still unfolding.",
   bonus: "Pre-orders include an early release excerpt.",
-  releaseWindow: "Summer 2026",
+  releaseWindow: "Fall 2026",
   coverImage: "/book-cover-front.jpg",
   authorImage: "/Facetune_31-03-2026-23-21-21.jpeg",
 };
@@ -23,7 +23,7 @@ const OFFERS = [
   {
     name: "Digital Edition",
     price: "$8.99",
-    description: "Delivered digitally upon release (Summer 2026).",
+    description: "Delivered digitally upon release (Fall 2026).",
     cta: "Reserve digital copy",
     href: "https://buy.stripe.com/REPLACE_EBOOK_LINK",
     featured: false,
@@ -31,7 +31,7 @@ const OFFERS = [
   {
     name: "Paperback Edition",
     price: "$19.99",
-    description: "Printed and shipped (Fall 2026).",
+    description: "Printed and shipped (Winter 2026).",
     cta: "Reserve paperback",
     href: "https://buy.stripe.com/REPLACE_PAPERBACK_LINK",
     featured: false,
