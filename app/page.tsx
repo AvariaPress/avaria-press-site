@@ -459,7 +459,13 @@ export default function Page() {
             padding-top: 16px;
             padding-bottom: 56px;
           }
+  .ap-hero {
+    gap: 10px;
+  }
 
+  .ap-section {
+    margin-top: 26px;
+  }
           .ap-rule {
             margin: 18px auto 22px;
             gap: 14px;
